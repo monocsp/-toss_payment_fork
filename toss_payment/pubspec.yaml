@@ -16,9 +16,9 @@ dependencies:
     sdk: flutter
 
   url_launcher: ^6.0.20
-  webview_flutter: ^3.0.1
+  webview_flutter: ^4.2.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
